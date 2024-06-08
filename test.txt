@@ -1,7 +1,3 @@
 Nome: Renan
-<<<<<<< HEAD
 idade: 22
 
-=======
-idade: 24
->>>>>>> 6e6afaee8bbe77eeb48b46a2eb84ebf92fe50eb0
