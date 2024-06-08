@@ -1,1 +1,2 @@
 Nome: Renan
+idade: 24
